@@ -24,9 +24,9 @@ Plase answer the folliwng 10 questions with your own words.
     * **Bonus question**: Is there a better way to do the same?
 
 6. What is the function `getCalculationLimit` doing?
+    * **Bonus question**: Is there something obsolete in there?
 
-7. What is the function `calculate` calculating and how is it doing it?
-    * **Bonus question**: Is there another way to calculate the same thing?
+7. What does the function `calculate` calculate and how is it doing it?
 
 8. What is the function `printResult` doing?
     * **Bonus question**: Is there an alternative for `Intl.NumberFormat`?
