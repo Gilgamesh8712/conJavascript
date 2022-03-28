@@ -9,7 +9,7 @@ Plase answer the folliwng 10 questions with your own words.
 
 ## Questions
 
-1. How is the index.html and main.js connected?
+1. How is the `index.html` and `main.js` connected?
     * **Bonus question**: What does `./` mean?
 
 2. What is the purpose of the function `DOMReady` and why is it used?
