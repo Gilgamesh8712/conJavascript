@@ -21,6 +21,7 @@ function checkLimits(min, max) {
     if (min > max) {
         throw new Error("Input not correct.");
     }
+    return true;
 }
 
 function getCalculationLimit(min, max) {
