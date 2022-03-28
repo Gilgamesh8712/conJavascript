@@ -31,7 +31,7 @@ Plase answer the folliwng 10 questions with your own words.
 8. What is the function `printResult` doing?
     * **Bonus question**: Is there an alternative for `Intl.NumberFormat`?
 
-9. Did you manage to run the application on your computer? Which steps where necessary?
+9. Did you manage to run the application on your computer? Which steps were necessary?
 
 10. What is the application doing?
 
