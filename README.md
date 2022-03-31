@@ -58,8 +58,7 @@ I only did the main source code with copy and past in JavaScript area and the in
 
 
 10. What is the application doing?
-It calculates first the difference between Uper and Lower Limit and than set the result with factorization. 
-Exp. Lower Limit:2  Uper Limit:5  calculate: 5-2 == 3 -> 3! == 6
+It calculates first the difference between Uper and Lower Limit and multiply with a random number than set the result with factorization. 
 If Uper Limit is smaller than Lower Limit than it shows an error like in the checkLimits function.
 
 # Further Information
